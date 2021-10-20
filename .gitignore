@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Compile python modules
+.pyc
+
+# Setuptools distribution folder.
+/dist/
+
 # Distribution / packaging
 .Python
 build/
