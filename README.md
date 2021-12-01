@@ -11,7 +11,9 @@ This package will provide an implementation of K-Means clustering applied to the
 - Easy to use CLI interface for segmentation of arbitrary images & simple integration into larger systems.
 
 ## Installation:
-- TODO
-## FAQ:
-- TODO
+- `pip install -r requirements.txt`
+## Running:
+To run this project:
+1. Modify config.json to specify input file path, output save path, and kmeans params.
+2. Run the following command: `python3 segment_image.py`
 

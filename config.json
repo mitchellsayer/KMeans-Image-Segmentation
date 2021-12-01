@@ -1,0 +1,8 @@
+{
+    "K": 3,
+    "TOLERANCE": 0.001,
+    "MAX_ITERATIONS": 100,
+    "RANDOM_SEED": 42,
+    "INPUT_PATH": "./images/inputs/lake.jpg",
+    "OUTPUT_PATH": "./images/outputs/lake_segmented.jpg"
+}
