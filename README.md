@@ -5,7 +5,7 @@ This package implements K-Means clustering in Python3 & also contains a module w
 
 To run, place input files in images/inputs and update config.json with desired image path and other k means parameters.
 
-## Installation:
+## Dependency Installation:
 - `pip install -r requirements.txt`
 
 ## Running:
