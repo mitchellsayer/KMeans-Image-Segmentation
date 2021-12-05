@@ -12,4 +12,3 @@ To run, place input files in images/inputs and update config.json with desired i
 To run this project:
 1. Modify config.json to specify input file path, output save path, and kmeans params.
 2. Run the following command: `python3 segment_image.py`
-3. 
