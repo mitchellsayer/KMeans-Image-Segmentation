@@ -10,5 +10,11 @@ To run, place input files in images/inputs and update config.json with desired i
 
 ## Running:
 To run this project:
-1. Modify config.json to specify input file path, output save path, and kmeans params.
-2. Run the following command: `python3 segment_image.py`
+1. Modify config.json to specify:
+  - K (number of clusters)
+  - Tolerance (converges once all cluster means move less than this amount in one iteration)
+  - Maximum iterations
+  - Random seed
+  - Input file path
+  - Output save path
+3. Run the following command: `python3 segment_image.py`
